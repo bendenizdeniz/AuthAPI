@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LoginDbApp.Businnes\LoginDbApp.Businnes.csproj" />
+    <ProjectReference Include="..\LoginDbApp.DataAccess\LoginDbApp.DataAccess.csproj" />
+    <ProjectReference Include="..\LoginDbApp.Entities\LoginDbApp.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

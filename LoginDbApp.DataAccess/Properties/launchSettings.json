@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LoginDbApp.DataAccess": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.Entities.dll
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.AssemblyInfo.cs
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.DataAccess.deps.json
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.DataAccess.runtimeconfig.json
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.DataAccess.runtimeconfig.dev.json
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.DataAccess.dll
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.DataAccess.pdb
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\bin\Debug\netcoreapp3.1\LoginDbApp.Entities.pdb
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.csproj.CopyComplete
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.dll
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.pdb
+C:\Users\deniz\source\repos\LoginDbApp\LoginDbApp.DataAccess\obj\Debug\netcoreapp3.1\LoginDbApp.DataAccess.genruntimeconfig.cache
